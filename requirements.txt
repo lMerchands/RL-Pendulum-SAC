@@ -1,1 +1,6 @@
-
+gymnasium==1.1.1         # For Pendulum-v1 environment
+stable-baselines3==2.6.0 # SAC implementation
+matplotlib==3.10.0       # For plotting
+seaborn==0.12.2          # For advanced plotting
+pandas==2.2.3            # For data manipulation
+numpy==1.26.4            # Required by many packages
